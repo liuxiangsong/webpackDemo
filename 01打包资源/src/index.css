@@ -1,0 +1,19 @@
+html,
+body {
+  background-color: skyblue;
+  height: 100%;
+}
+
+#div {
+  width: 100px;
+  height: 100px;
+  background-image: url('./images/vue.png');
+  background-size: cover;
+}
+
+#div2 {
+  width: 200px;
+  height: 200px;
+  background-image: url('./images/angular.jpg');
+  background-size: cover;
+}

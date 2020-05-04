@@ -1,0 +1,44 @@
+{
+  "id": "1792684",
+  "name": "no-name",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "14434610",
+      "name": "安全",
+      "font_class": "huaban1",
+      "unicode": "e631",
+      "unicode_decimal": 58929
+    },
+    {
+      "icon_id": "14439536",
+      "name": "报表平台",
+      "font_class": "baobiaopingtai1",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "14453317",
+      "name": "add",
+      "font_class": "add",
+      "unicode": "e602",
+      "unicode_decimal": 58882
+    },
+    {
+      "icon_id": "14453195",
+      "name": "报表平台",
+      "font_class": "baobiaopingtai",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "11474203",
+      "name": "auto",
+      "font_class": "auto",
+      "unicode": "e6eb",
+      "unicode_decimal": 59115
+    }
+  ]
+}
